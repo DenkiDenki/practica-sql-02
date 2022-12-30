@@ -1,0 +1,1 @@
+INSERT INTO `departamentos`(`Id`, `Nombre`) VALUES (31,'Sales'),(32,'Engineering'), (33,'Clerical'), (34,'Marketing');

@@ -1,0 +1,1 @@
+SELECT * FROM Empleados E JOIN Departamentos D ON E.DepartamentoId = D.Id;

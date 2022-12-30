@@ -1,0 +1,1 @@
+CREATE TABLE Departamentosduplicados ( Id INT, Nombre VARCHAR(45) );
